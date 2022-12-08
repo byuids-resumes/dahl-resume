@@ -1,60 +1,54 @@
-# md-resume
+<details>
+  <summary>To view my resume, click HERE</summary>
+  
+# Henry Dahl
 
-A resume maintained in plain text and rendered to HTML and PDF using CSS.
+### Education
 
-For more details, see the [markdown-csv project page](http://elipapa.github.io/markdown-cv), or the blog post on [why I switched to markdown for my CV](http://elipapa.github.io/blog/why-i-switched-to-markdown-for-my-cv.html).
+Renaissance High School (2015-2018)
+GPA 3.5, graduated with and Associates of Arts
+
+Brigham Young University - Idaho (2021 - Current)
+Bacholors in Public Policy and Administration
+Minor in Data Science
+Certificate in Leadership and Business
 
 ***
 
-## Customization
+### Work Experience
 
-Simply [fork the mdresume repo](https://github.com/byuids-resumes/mdresume)
+> 1. Hugo's Deli - Sandwich Builder 2017-2018
+> 2. The Church of Jesus Chrsot of Latter-Day Saints - Missionary for the Canada Halifax and Montreal Mission 2018-2020
+> 2a. During which I learned to advertise on Facebook, Instagram, and Twitter
+> 3. Deseret Industries - Sales Floor Representative January-April 2021
+> 4. Moxie Pest Control - Salesmen May-August 2021 & 2022
+> 4a. Focused on integrity, making and keeping committments, hard work, and sales skills
+> 5. For the Strength of Youth - Youth councilor June - August 2022
+> 5a. Lead and teach young adults
+> 6. Pizza Hut - Delivery Man and Constumer Service Representative September 2022-Current
 
-![](https://help.github.com/assets/images/help/repository/fork_button.jpg)
 
-and edit the `index.md` file in the `docs` folder [directly in Github](https://help.github.com/articles/editing-files-in-your-repository/)
+### Skills
 
-![](https://help.github.com/assets/images/help/repository/edit-file-edit-button.png)
+> 1. Python, SQL, and Rstudio programing languge experience
+> 2. Leadership delegation and people management
+> 3. Writing
+> 4. Socializing and getting to know people
+> 5. Loyal, enthusiastic, committed, and hard working
+> 6. Social media advertising (Facebook, Instagram, and Twitter)
 
-adding your skills, jobs and education.
+### Hobbies
 
-![](https://help.github.com/assets/images/help/repository/edit-readme-light.png)
+> 1. Photography (film and digital)
+> 2. Rock Climbing
+> 3. Being in nature (camping, fishing, hiking, etc.)
+> 4. Socializing and getting to know people
+> 5. Longboarding/skim boarding
+> 6. Podcasting (called 'Second Impressions')
+> 7. Reading/audiobooks
 
-## Distribution
+### Contact
 
-To transform your plain text resume into a beautiful and shareable HTML page, you have two options:
-
-### I. Use Github Pages to publish it online
-
-1. Edit or move your resume to the `index.md` file in the `docs` folder.
-2. Go to settings > GitHub pages to make the changes shown.
-
-![](docs_setup.png)
-
-3. Head to *yourusername*.github.io/mdresume to see your resume live.
-
-Any change you want to make to your CV from then on would have to be done in the `docs` folder and will be immediately rendered by Github Pages.
-
-## Styling
-
-The included CSS will render your CV in two styles:
-s
-1. `kjhealy` the original default, inspired by [kjhealy's vita
-template](https://github.com/kjhealy/kjh-vita).
-2. `davewhipp` is a tweaked version of `kjhealy`, with bigger fonts and dates
-  right aligned.
-
-To change the default style, simply change the variable in the
-`_config.yml` file.
-
-Any other styling is possible. More CSS style contributions and forks are welcome!
-
-### Author
-
-Eliseo Papa ([Twitter](http://twitter.com/elipapa)/[Github](http://github.com/elipapa)/[Website](https://elipapa.github.io)).
-
-![Eliseo Papa](https://s.gravatar.com/avatar/eae1f0c01afda2bed9ce9cb88f6873f6?s=100)
-
-### License
-
-[MIT License](https://github.com/elipapa/markdown-cv/blob/master/LICENSE)
+Email: henryjdahl@gamil.com
+Phone: (208)809-9166
+linked-in: Henry Dahl 
